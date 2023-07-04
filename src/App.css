@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.background-image {
+  background-image: url('../public/Skybackground.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
+
+
+
+
+
+
